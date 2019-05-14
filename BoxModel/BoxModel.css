@@ -1,0 +1,20 @@
+/* 
+* Tatiana Mendez
+* May 14, 2019
+* Box Model Practice with San Joaquin Valley Town Hall
+*/
+
+/* The universal selector */
+
+* { margin: 0; padding: 0; } /* margin and padding for the universal selector */
+
+/* Body properties here */
+
+body { border: 5px dotted #394d6d; padding: 10px 40px 10px 10px; margin: 10px 10px 20px 10px; } /* border, margin, and padding properties for the body */
+
+main { border: 5px solid #6d3964; } /* border properties for the main */
+
+h1 { border: 3px dotted #94dd7c; padding: 3px; margin: 30px 10px 10px 10px; } /* border, margin, and padding for the h1 */
+
+p { border: 3px dotted #91ecff; padding: 3px; margin: 10px; } /* border, margin, and padding for the paragraph */
+
